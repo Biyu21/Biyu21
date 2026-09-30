@@ -1,7 +1,7 @@
-# Hi 👋, I'm Biyu
+# YA MASAK.
 
 <p>
-  Computer Science student • Developer • Technology enthusiast
+  JOS JIS
 </p>
 
 <h3 align="left">Languages</h3>
