@@ -1,16 +1,7 @@
 # Hi 👋, I'm Biyu
 
-<h3 align="left">Connect with me:</h3>
-
-<p align="left">
-  <a href="https://github.com/Biyu21" target="_blank">
-    <img 
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" 
-      alt="Biyu21" 
-      height="30" 
-      width="40" 
-    />
-  </a>
+<p>
+  Computer Science student • Developer • Technology enthusiast
 </p>
 
 <h3 align="left">Languages</h3>
@@ -44,7 +35,7 @@
   </a>
 </p>
 
-<h3 align="left">📊 Top Skills</h3>
+<h3 align="left">Top Skills</h3>
 
 <p align="left">
   <img 
