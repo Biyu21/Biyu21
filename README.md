@@ -38,8 +38,18 @@
 <h3 align="left">Top Skills</h3>
 
 <p align="left">
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Biyu21&layout=compact&theme=default&langs_count=8"
-    alt="Most Used Languages"
-  />
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Biyu21&layout=compact&theme=dark&langs_count=8"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Biyu21&layout=compact&theme=default&langs_count=8"
+    />
+    <img
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Biyu21&layout=compact&theme=default&langs_count=8"
+      alt="Most Used Languages"
+    />
+  </picture>
 </p>
